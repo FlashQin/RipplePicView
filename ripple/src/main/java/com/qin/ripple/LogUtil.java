@@ -34,8 +34,8 @@ public class LogUtil {
             Log.i(buildTag(APP_TAG), buildMessage(message));
     }
 
-    public static void d(String message, Context context) {
-        Toast.makeText(context,"dsfsd",Toast.LENGTH_SHORT).show();
+    public static void d(String message) {
+
         if (DEBUG_MODE)
             Log.d(buildTag(APP_TAG), buildMessage(message));
     }
