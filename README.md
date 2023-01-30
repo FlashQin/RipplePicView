@@ -1,4 +1,7 @@
 ## RipplePicView（Android仿探探社交自定义闪聊动画效果）
+### 需要实现的效果图如探探
+
+![默认](images/Screenshot_20230130-131719.png)
 
 ## 使用方式
 
