@@ -1,7 +1,7 @@
 # RipplePicView（Android仿探探社交自定义闪聊动画效果）
 
 #使用方式
-  Add it in your root build.gradle at the end of repositories:
+#Add it in your root build.gradle at the end of repositories:
 	allprojects {
 		repositories {
 			...
