@@ -20,7 +20,7 @@ import java.util.Random;
 /**
  * 涟漪效果
  * <p>
- * Created by zhuwentao on 2018-03-07.
+ * Created by flashqin on 2022-03-07.
  */
 public class RippleSLView extends View {
 
