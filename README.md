@@ -46,3 +46,14 @@ dependencies {
 	  implementation 'com.github.FlashQin:RipplePicView:1.0.2'//具体版本号请查看最新版本号
 }
 ``` 
+## Attributes属性
+>在XML布局文件中调用。
+> 
+|Attributes|format|describe
+|---|---|---|
+|cColor|color|圆圈的颜色
+|cDensity|integer|圆圈之间的密度
+|cIsAlpha|boolean|圆圈是否为渐变模式
+|cIsFill|boolean|圆圈是否为填充模式
+|cSpeed|integer|圆圈扩散的速度
+
